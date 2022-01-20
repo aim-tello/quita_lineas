@@ -1,3 +1,2 @@
 # quita_lineas
-
-##Script que realiza la diferencia entre dos archivos de texto
+Programa que lee un archivo de texto (file1) y usa las líneas de file1 para buscar en otro archivo (file2) y borrarlas si corresponden con los patrones de file1
